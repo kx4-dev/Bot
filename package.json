@@ -1,5 +1,5 @@
 {
-  "name": "bot-rp",
+  "name": "botrp",
   "version": "1.0.0",
   "description": "Bot de RP para Discord",
   "main": "index.js",
