@@ -1,15 +1,14 @@
 {
-  "name": "bot-rp",
+  "name": "sevenmenu-bot",
   "version": "1.0.0",
-  "description": "Bot de RP para Discord",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.15.3",
-    "axios": "^1.7.4",
-    "fs": "^0.0.1-security",
-    "path": "^0.12.7"
+    "axios": "^1.7.2",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
   }
 }
